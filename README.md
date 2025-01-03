@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 24px; font-weight: bold;">Hey, I'm Mkshustov :)</p>
+<p align="center">Hey, I'm Mkshustov :)</p>
 
 ```python
 class FullStackDeveloper:
