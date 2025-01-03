@@ -1,4 +1,4 @@
-<p align="center"><strong>Hey, I'm Mkshustov :)</strong></p>
+<p align="center" style="font-size: 24px; font-weight: bold;">Hey, I'm Mkshustov :)</p>
 
 ```python
 class FullStackDeveloper:
@@ -52,7 +52,9 @@ class FullStackDeveloper:
 ```
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=Mkshustov&show_icons=true&theme=radical&include_all_commits=true)
-![github_stats_language](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkshustov&theme=radical&layout=compact)
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mkshustov&show_icons=true&theme=radical&include_all_commits=true" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkshustov&theme=radical&layout=compact" alt="github_stats_language" />
+</div>
 
 
