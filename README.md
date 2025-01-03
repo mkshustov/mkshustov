@@ -50,3 +50,9 @@ class FullStackDeveloper:
             "discord": "@mkshustov",
         }
 ```
+
+
+![stats](https://github-readme-stats.vercel.app/api?username=Mkshustov&show_icons=true&theme=radical&include_all_commits=true)
+![github_stats_language](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkshustov&theme=radical&layout=compact)
+
+
