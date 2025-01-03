@@ -38,7 +38,7 @@ class FullStackDeveloper:
                          "Reverse Engineering 🔍",
                          "Machine Learning 🤖"],
                 "tools": ["Jetbrains programs"],
-                "frameworks": ["Quart", "Fiber v3", "Flask"],
+                "frameworks": ["Quart", "Fiber v3", "Flask", "Vue"],
                 "Web servers": ["Nginx"]
             }
         }
