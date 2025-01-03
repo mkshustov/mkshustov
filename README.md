@@ -52,9 +52,7 @@ class FullStackDeveloper:
 ```
 
 
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mkshustov&show_icons=true&theme=radical&include_all_commits=true" alt="stats" style="display: block; margin: 0 auto;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkshustov&theme=radical&layout=compact" alt="github_stats_language" style="display: block; margin: 0 auto;" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Mkshustov&show_icons=true&theme=radical&include_all_commits=true" alt="stats" style="display: block; margin: 0 auto;" />
+
 
 
